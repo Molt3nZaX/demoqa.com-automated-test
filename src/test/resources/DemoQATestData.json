@@ -1,0 +1,9 @@
+{
+  "expectedTextInAlert": "You clicked a button",
+  "expectedTextInConfirmAlert": "Do you confirm action?",
+  "textAfterClosingConfirmAlert": "You selected Ok",
+  "expectedTextInPromptAlert": "Please enter your name",
+  "expectedParentMessage": "Parent frame",
+  "expectedChildMessage": "Child Iframe"
+}
+

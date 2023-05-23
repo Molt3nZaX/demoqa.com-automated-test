@@ -1,0 +1,8 @@
+[{"id": "1",
+  "firstName":"Jon",
+  "lastName": "Snow",
+  "email": "knownothing@gmail.com",
+  "age": 30,
+  "salary": 3000,
+  "department": "alpha"
+}]

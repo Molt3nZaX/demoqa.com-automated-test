@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://demoqa.com/",
+  "browser": "chrome",
+  "chromeOptionsList": [
+    "incognito", "start-maximized", "--remote-allow-origins=*"
+  ],
+  "firefoxOptions": [
+    "-private"
+  ],
+  "explicitlyWait": 10
+}
